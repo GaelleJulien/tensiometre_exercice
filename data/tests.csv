@@ -1,0 +1,16 @@
+test_id,test_condition,test_number,measurement,value,unit
+001,120,1,systolic_pressure,121,mmHg
+002,120,2,systolic_pressure,119,mmHg
+003,120,3,systolic_pressure,122,mmHg
+004,120,1,diastolic_pressure,78,mmHg
+005,120,2,diastolic_pressure,80,mmHg
+006,120,3,diastolic_pressure,77,mmHg
+007,160,1,systolic_pressure,162,mmHg
+008,160,2,systolic_pressure,159,mmHg
+009,160,3,systolic_pressure,161,mmHg
+010,160,1,diastolic_pressure,95,mmHg
+011,160,2,diastolic_pressure,97,mmHg
+012,160,3,diastolic_pressure,96,mmHg
+013,120,1,response_time,1.8,s
+014,120,2,response_time,2.1,s
+015,120,3,response_time,1.9,s

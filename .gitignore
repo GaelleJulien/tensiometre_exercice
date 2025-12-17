@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+data/*.csv    # si tu ne veux pas partager les vrais CSV
+reports/
